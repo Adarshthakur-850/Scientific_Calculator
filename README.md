@@ -69,11 +69,11 @@ bash
 Copy
 Edit
 Scientific_Calculator/
-├── calculator.py          # Main application code
-├── README.md              # Project documentation
-├── requirements.txt       # (Optional) Dependency list
-├── LICENSE                # Project license (MIT/Apache)
-└── assets/                # Screenshots or demo images
+├── calculator.py          
+├── README.md              
+├── requirements.txt      
+├── LICENSE                
+└── assets/                
 📸 Screenshots
 Add screenshots here to showcase the GUI.
 
