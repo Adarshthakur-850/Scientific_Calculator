@@ -45,13 +45,10 @@ A fully functional **Scientific Calculator** built using **Python** and **Tkinte
 ## 💻 Installation
 
 ```bash
-# Clone the repository
 git clone https://github.com/yourusername/Scientific_Calculator.git
 
-# Navigate into the project folder
 cd Scientific_Calculator
 
-# Run the calculator
 python calculator.py
 No external libraries required – only standard Python libraries.
 
